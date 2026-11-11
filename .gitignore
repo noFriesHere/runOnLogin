@@ -1,0 +1,6 @@
+# Local recovery copies of edited or removed workflows.
+workflows/.backups/
+/startup-item-skill/
+workflows/
+scripts/
+tests/
